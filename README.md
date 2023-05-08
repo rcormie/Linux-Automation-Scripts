@@ -30,18 +30,6 @@ To use the script, run the following command:
 ./rhel-update-script.sh
 ```
 
-### github-login.sh
-
-This script configures Git on a Linux system and logs in to GitHub using the user's GitHub account. The script prompts the user for their email address, GitHub username, and SSH private key name (located in ~/.ssh). It then sets the Git configuration options and tests the SSH connection to GitHub. 
-
-#### Usage
-
-To use the script, run the following command:
-
-```bash
-./github-login.sh
-```
-
 ## License
 
 These scripts are released under the Apache License, Version 2.0. For more information, see the `LICENSE.txt` file in the root directory of this repository.
